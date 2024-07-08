@@ -1,0 +1,24 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore all csv except updated current two
+Database/
+!Database/formulas.csv
+!Database/solutions.csv
+
+# Environment
+venv/
+
+# Files created at install
+executeGUI.ps1
+launcher.ps1
+launcher
+
+# Zip and rar archives
+*.zip
+*.rar
+
+# Personal notes on dependencies
+dipendenze.txt
