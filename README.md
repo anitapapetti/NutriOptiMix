@@ -31,4 +31,4 @@ NutriOptiMix was created by [Anita Papetti](https://github.com/anitapapetti) in 
 ## License
 GNU General Public License v3.0 or later.
 
-See [COPYING](COPYING) to read the full text.
+See [COPYING](COPYING.txt) to read the full text.
