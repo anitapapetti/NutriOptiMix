@@ -4,7 +4,7 @@ __pycache__/
 *$py.class
 
 # Ignore all csv except updated current two
-Database/
+Database/*
 !Database/formulas.csv
 !Database/solutions.csv
 
